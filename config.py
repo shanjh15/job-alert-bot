@@ -1,4 +1,4 @@
-GREENHOUSE_COMPANIES = [
+hGREENHOUSE_COMPANIES = [
     "datadog",
     "mongodb",
     "elastic",
